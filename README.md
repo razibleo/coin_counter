@@ -5,5 +5,5 @@ Detects coins and their value based on sized using hough circle transformation. 
 
 #### Demo
 <a href="https://youtu.be/0y9EjauxrKo
-" target="_blank"><img src="https://i9.ytimg.com/vi/98qFEIHRBV4/mq1.jpg?sqp=COit55gG&rs=AOn4CLBZipkSQMXskph_jajJ2U3pAs2XTg" 
+" target="_blank"><img src="https://github.com/razibsarkerleo/coin_counter/blob/fd62ea615ec080bf4e379f4a60fba8e4ce8731c8/coincounter_thumnail.jpeg" 
  width="400"  /></a>

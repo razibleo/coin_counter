@@ -1,4 +1,4 @@
-# Coint Counter
+# Coin Counter
 
 ## Description
 Detects coins and their value based on sized using hough circle transformation. Created using Raspberry pi 4 and openCV.
